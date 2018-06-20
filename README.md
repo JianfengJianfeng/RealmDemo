@@ -5,4 +5,4 @@
 https://zhuanlan.zhihu.com/p/38281834
 
 
-![image](http://github.com/JianfengJianfeng/RealmDemo/raw/master/Screenshots/shouye.png)
+http://github.com/JianfengJianfeng/RealmDemo/raw/master/Screenshots/shouye.png
